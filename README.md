@@ -1,4 +1,4 @@
-# XMRig
+# XMRafi
 XMRafi is a High Speed XMR miner high performance, cross platform RandomX, KawPow, CryptoNight unified CPU/GPU miner and [RandomX benchmark] Official binaries are available for Windows, Linux, macOS and FreeBSD, From rafiultanim.
 
 ## Mining backends
