@@ -11,7 +11,7 @@ XMRafi is a High Speed XMR miner high performance, cross platform RandomX, KawPo
  - NVIDIA Quadro series (professional GPUs).
 
 ## Download
-* **[Dowenload](https://github.com/rafilofi2274/XMRafi/blob/main/xmrafi-1.0-best-win.zip)**
+* **[Download](https://github.com/rafilofi2274/XMRafi/blob/main/xmrafi-1.0-best-win.zip)**
 
 ## Donations
 * donation me any crypto
